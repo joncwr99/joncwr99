@@ -16,8 +16,8 @@
     [PROGRAMME]: COMPUTER SCIENCE MAJOR | [INTERESTS]: CYBERSECURITY / ARTIFICIAL INTELLIGENCE
 ===================================================================================================
 ```
-[![Linkedin Badge](https://img.shields.io/badge/-jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chua-wen-rong-jonathan-6b127020b/)](https://www.linkedin.com/in/chua-wen-rong-jonathan-6b127020b/)
-[![Gmail Badge](https://img.shields.io/badge/-joncwr99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joncwr99@gmail.com)](mailto:joncwr99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-jonathan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chua-wen-rong-jonathan-6b127020b/)](https://www.linkedin.com/in/chua-wen-rong-jonathan-6b127020b/)
+[![Gmail Badge](https://img.shields.io/badge/-joncwr99@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joncwr99@gmail.com)](mailto:joncwr99@gmail.com)
 ## $ ./tech-n-tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali-linux&logoColor=white&color=6aa6f8)
