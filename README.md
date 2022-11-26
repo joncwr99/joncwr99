@@ -4,7 +4,7 @@
 ## $ whoami
 ```powershell
 ===================================================================================================
-   [COUNTRY]: SINGAPORE | [UNIVERSITY]: NANYANG TECHNOLOGICAL UNIVERSITY | [YEAR]: SOPHOMORE
+   [COUNTRY]: SINGAPORE | [UNIVERSITY]: NANYANG TECHNOLOGICAL UNIVERSITY | [YEAR]: PENULTIMATE
 ===================================================================================================
          ____.                     __  .__                    _________ .__                  
         |    | ____   ____ _____ _/  |_|  |__ _____    ____   \_   ___ \|  |__  __ _______   
